@@ -13,11 +13,14 @@ This system aims to digitalize and simplify blood bank operations, making it eas
 💻 Tech Stack
 
 Frontend**: HTML5, CSS3, JavaScript
+
 Backend**: PHP
+
 Database**: MySQL
+
 Tools Used**: VS Code, XAMPP
 
----
+
 
  🧩 Features
 **Three Module(Donors,Recipients,Admin Panel)**
